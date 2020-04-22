@@ -1,0 +1,8 @@
+Grade Results
+Student         Grade           Teacher(Validated by)
+1. Joy            A                    Xar
+2. Roy            A+                   Kom
+3. Paraj          A                    Kom
+4. Raj            B+                   Xar
+5. Zen            A+                   Xar
+6. Shan            B                   Kom

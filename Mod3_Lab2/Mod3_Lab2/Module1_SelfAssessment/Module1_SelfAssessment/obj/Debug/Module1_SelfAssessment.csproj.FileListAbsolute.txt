@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.exe.config
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.exe
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.pdb
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.exe
+C:\Users\Admin\source\repos\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.pdb
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.exe.config
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.exe
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\bin\Debug\Module1_SelfAssessment.pdb
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.exe
+C:\Users\Admin\source\repos\Mod3_Lab2\Mod3_Lab2\Module1_SelfAssessment\Module1_SelfAssessment\obj\Debug\Module1_SelfAssessment.pdb

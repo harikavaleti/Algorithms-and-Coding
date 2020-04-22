@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe.config
+C:\Users\Admin\source\repos\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe
+C:\Users\Admin\source\repos\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.pdb
+C:\Users\Admin\source\repos\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.exe
+C:\Users\Admin\source\repos\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.pdb
